@@ -1,0 +1,53 @@
+[{
+    "id": 1,
+    "marca": "Fierce",
+    "modelo": "Sunshine",
+    "rodado": 16,
+    "añoDeFabricacion": 2020,
+    "color": "negro",
+    "peso": 15,
+    "tipo": "Paseo",
+    "precio": 150000,
+    "vendida": false
+},
+
+{
+    "id": 2,
+    "marca": "Battle",
+    "modelo": "Techno",
+    "rodado": 26,
+    "añoDeFabricacion": 2021,
+    "color": "gris",
+    "peso": 16,
+    "tipo": "Retro",
+    "precio": 170000,
+    "vendida": false
+},
+
+
+{
+    "id": 3,
+    "marca": "TopMega",
+    "modelo": "FM18SI29AM211",
+    "rodado": 28,
+    "añoDeFabricacion": 2022,
+    "color": "celeste",
+    "peso": 17,
+    "tipo": "Triatlon",
+    "precio": 250000,
+    "vendida": false
+},
+
+{
+    "id": 4,
+    "marca": "Halley",
+    "modelo": "Ruta",
+    "rodado": 29,
+    "añoDeFabricacion": 2019,
+    "color": "Naranja",
+    "peso": 13,
+    "tipo": "Montañera",
+    "precio": 250000,
+    "vendida": true
+}
+]
